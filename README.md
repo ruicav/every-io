@@ -1,6 +1,6 @@
-##every-io
+## every-io
 
-###to run:
+### to run:
 
 ```
 docker build . -t ruicav/every-io
@@ -8,7 +8,7 @@ docker build . -t ruicav/every-io
 docker run -p 3000:3000 -d ruicav/every-io
 ```
 
-###query examples:
+### query examples:
 
 ```
 query {
